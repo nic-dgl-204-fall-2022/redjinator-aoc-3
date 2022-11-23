@@ -140,7 +140,7 @@ You can solve the puzzle and provide an answer using the language of your choice
 
 
 
-OLD
+
 ---
 Welcome to the Advent of Code[^aoc] Kotlin project created by [redjinator][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
