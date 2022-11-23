@@ -102,7 +102,8 @@ Keeping track of the number of groups and garbage characters was pretty easy too
 
 ## Reflection
 
-
+How long did it take me to find a complete solution?
+I'd say it took me about 4 hours to get this working. I spent a lot of time trying to figure out how to parse the data. Looking at it now it looks so simple but I was having a hard time visualizing how I wanted to move through the data. But I approached it from the same way I read bar charts one by one keeping state as I update data each move forward and it worked out.I kinda brute forced this and kept hacking at it until it worked, I know I shouldn't have and I think I did only 1 commit, but I think it's because the structure of the file was so small I was able to keep everything in sight and make a small change then run again to test. Seemed like it was the quick and easy way to do it at the time but I know I should have been more disciplined and made more commits and likely spent more time than I should have using that method in the long run. I did most of this in the late night (it's 2:28am) and used [Kotlinlang](https://kotlinlang.org/) as my primary reference but admittingly I referenced a python solution to the problem near the end to help me with a problem but I can't seem to find it now. It was on GitHub however. I'll update here if I find it. 
 
 End
 
